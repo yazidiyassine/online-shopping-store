@@ -10,7 +10,6 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 // This annotation is used to register this service to Eureka Server
-// the following annotation deosn't work
 @EnableDiscoveryClient
 public class InventoryServiceApplication {
 
