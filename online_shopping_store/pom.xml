@@ -14,6 +14,7 @@
         <module>inventory-service</module>
         <module>discovery-server</module>
         <module>oss-gateway</module>
+        <module>notification-service</module>
     </modules>
 
     <parent>
